@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Diamonds</string>
+    <string name="action_settings">Settings</string>
+    <string name="msg_info1">ניתן לייצר יהלומים במעבדה, בתנאים הדומים לתנאים במעמקי האדמה, היהלומים המיוצרים כך נקראים יהלומים סינטטיים.</string>
+    <string name="msg_info2">יהלום הינו פחמן (KARBON) דחוס. מכל 30 טון אדמה מפיקים 1 קראט של יהלום.</string>
+    <string name="msg_info3">דרגת קשיות(Hardness) היהלום היא הגבוהה ביותר-10, לעומת דרגת הקשיחות (Toughness) שלו ומשמעות הדבר היא שלא ניתן לחרוץ אותו ע"י אבן אחרת פרט ליהלום, אך מכת פטיש תרסק אותו בהחלט.</string>
+    <string name="msg_info4">לא ניתן למצוא בטבע שני יהלומים זהים לחלוטין.</string>
+    <string name="msg_info5"> כ-10 מיליון אנשים ברחבי העולם, במישרין או בעקיפין נתמכים על ידי תעשיית היהלומים.</string>
+
+</resources>
